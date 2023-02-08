@@ -25,3 +25,4 @@ export class Negociacao {
         return this._quantidade * this._valor;
     }
 }
+
